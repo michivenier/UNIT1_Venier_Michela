@@ -1,0 +1,31 @@
+{"CD": 
+	{"nome della casa discografica":"Michela_Records",
+	"artisti":["Bach","Chopin","Scarlatti"],
+	"canzoni":
+	[
+		{
+			"numero_traccia":1,
+			"durata":"109min",
+			"nome_traccia":"Messa_in_Bminore",
+			"Anno_di_pubblicazione":"1749dc",
+			"categoria":"classica"
+		},
+		{
+			"numero_traccia":2,
+			"durata":"7.50min",
+			"nome_traccia":"Clair_de_lune",
+			"Anno_di_pubblicazione":"1883dc",
+			"categoria":"classica"
+		},
+		{
+			"numero_traccia":2,
+			"durata":"3.07min",
+			"nome_traccia":"Sonata_in_FAmaggiore_K17",
+			"Anno_di_pubblicazione":"1738dc",
+			"categoria":"classica"
+		}
+	]
+	}
+}
+
+	
